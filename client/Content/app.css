@@ -1,5 +1,11 @@
 /* Custom CSS goes here */
 body {
+
   padding-bottom: 70px;
+  background-image: url("/Assets/images/test.png");
+  background-size: 1450px;
+  opacity: 1.1;
+  
   }
 
+ 
